@@ -1,3 +1,4 @@
 *.sh
 azure/environments/dev/.terraform
 
+aws/environments/dev/.terraform
